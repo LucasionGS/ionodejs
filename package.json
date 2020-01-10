@@ -1,0 +1,12 @@
+{
+  "name": "ionodelib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ionode.js",
+  "author": "Lucasion",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/LucasionGS/IonodeLibJs",
+    "type": "github"
+  }
+}
