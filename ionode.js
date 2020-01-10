@@ -53,7 +53,7 @@ class Download{
     return bytes / 1024 / 1024 / 1024;
   }
 
-  DownloadedInAuto()
+  downloadedInAuto()
   {
     var bytes = this.downloadedBytes;
     if (bytes > 1073741824) {
